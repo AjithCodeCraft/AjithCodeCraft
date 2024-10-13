@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ajith S</h1>
-<h3 align="center">An</h3>
+<h3 align="center">Software Developer || Designer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithcodecraft&label=Profile%20views&color=0e75b6&style=flat" alt="ajithcodecraft" /> </p>
 
