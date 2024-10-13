@@ -1,5 +1,30 @@
 # 💫 About Me:
-FullStack || GenAi<br> React,Ai Modeling,Apis<br>Companies || Startups || Designers<br>Leads<br> https://ajithcodecraft.github.io/Ajith-S/<br>react,next,Django,Angular<br><br>
+<h1 align="center">Hi 👋, I'm Ajith S</h1>
+<h3 align="center">An</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithcodecraft&label=Profile%20views&color=0e75b6&style=flat" alt="ajithcodecraft" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajithcodecraft" alt="ajithcodecraft" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **FullStack || GenAi**
+
+- 🌱 I’m currently learning **React,Ai Modeling,Apis**
+
+- 👯 I’m looking to collaborate on **Companies || Startups || Designers**
+
+- 🤝 I’m looking for help with **Leads**
+
+- 👨‍💻 All of my projects are available at [https://ajithcodecraft.github.io/Ajith-S/](https://ajithcodecraft.github.io/Ajith-S/)
+
+- 💬 Ask me about **react,next,Django,Angular**
+
+- 📫 How to reach me **ajithsa900@gmail.com**
+
+- 📄 Know about my experiences [https://ajithcodecraft.github.io/Ajith-S/](https://ajithcodecraft.github.io/Ajith-S/)
+
+- ⚡ Fun fact **I don't use Ai for coding:)**
 
 
 ## 🌐 Socials:
