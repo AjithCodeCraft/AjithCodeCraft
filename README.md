@@ -44,3 +44,4 @@
 [![](https://visitcount.itsvg.in/api?id=ajithcodecraft&icon=6&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/ajithcodecraft/ajithcodecraft/blob/output/github-contribution-grid-snake.gif)
