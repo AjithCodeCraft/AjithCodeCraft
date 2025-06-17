@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ajith S</h1>
 <h3 align="center">Software Developer || Designer </h3>
 
